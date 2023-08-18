@@ -1,0 +1,1 @@
+export declare const updateScreens: import("@reduxjs/toolkit").ActionCreatorWithOptionalPayload<import("./types").ScreensState, string>, clearScreensState: import("@reduxjs/toolkit").ActionCreatorWithoutPayload<string>;

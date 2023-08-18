@@ -1,0 +1,1 @@
+export { fieldsResolver } from "./fieldsResolver";

@@ -1,0 +1,1 @@
+export { withGlobalStyles } from "./withGlobalStyles";

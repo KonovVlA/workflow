@@ -1,0 +1,1 @@
+export { defaultCheckboxFieldResolver } from "./defaultCheckboxFieldResolver";

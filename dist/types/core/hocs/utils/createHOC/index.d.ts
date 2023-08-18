@@ -1,0 +1,1 @@
+export { createHOC } from "./createHOC";

@@ -1,0 +1,1 @@
+export { minLengthValidator } from "./minLengthValidator";

@@ -1,0 +1,1 @@
+export declare const updateMessages: import("@reduxjs/toolkit").ActionCreatorWithOptionalPayload<import("./types").MessagesState, string>, clearMessagesState: import("@reduxjs/toolkit").ActionCreatorWithoutPayload<string>;

@@ -1,0 +1,1 @@
+export { useClear } from "./useClear";

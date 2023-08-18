@@ -1,0 +1,1 @@
+export declare const updateReferences: import("@reduxjs/toolkit").ActionCreatorWithOptionalPayload<import("../../..").References, string>, updateReference: import("@reduxjs/toolkit").ActionCreatorWithOptionalPayload<import("./types").ReferenceWithId, string>, clearReferencesState: import("@reduxjs/toolkit").ActionCreatorWithoutPayload<string>;

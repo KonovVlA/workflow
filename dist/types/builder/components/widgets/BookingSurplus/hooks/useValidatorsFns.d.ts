@@ -1,0 +1,1 @@
+export declare function useValidatorsFns(copyIndex: number, copiesAmount: number): Partial<Record<import("../utils").BookingSurplusValidatorsNames, import("../../../../..").ValidatorFn<import("../../../../..").FieldCombinedValue, import("../../../../../definitions").UnknownObject>>>;

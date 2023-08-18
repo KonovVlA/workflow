@@ -1,0 +1,1 @@
+export { splitThousands } from "./splitThousands";

@@ -1,0 +1,1 @@
+export declare const updateHistory: import("@reduxjs/toolkit").ActionCreatorWithOptionalPayload<import("./types").HistoryState, string>, clearHistoryState: import("@reduxjs/toolkit").ActionCreatorWithoutPayload<string>;

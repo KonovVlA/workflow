@@ -1,0 +1,1 @@
+export { withStrategies } from "./withStrategies";

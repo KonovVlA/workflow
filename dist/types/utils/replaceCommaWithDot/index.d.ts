@@ -1,0 +1,1 @@
+export { replaceCommaWithDot } from "./replaceCommaWithDot";
